@@ -2,10 +2,9 @@
 
 /*
 Plugin Name: Novak Solutions JavaScript / Infusionsoft Webform Plugin
-Plugin URI: http://novaksolutions.com/wordpress-plugins/infusionsoft-w…orm-javascript/
-Description: This plugin provides shortcodes that can be used to insert javascript into a page or post without wordpress removing them.  Usage: [javascript src="INFUSIONSOFT_WEBFORM_JAVASCRIPT_URL"/]
+Description: This plugin has been discontinued. Please use the Infusionsoft Web Form JavaScript plugin instead.
 Author: Joey Novak
-Version: 0.9.0
+Version: 0.9.2
 Author URI: http://novaksolutions.com
 */
 
